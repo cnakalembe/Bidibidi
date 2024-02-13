@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/alanacg/clrjmsn2r000b01p58f1p9cne',
+    style: 'mapbox://styles/cnakalembe/clsksz43703tj01qq841m1keo',
     accessToken: 'pk.eyJ1IjoiY25ha2FsZW1iZSIsImEiOiJja21nMTZoZGkwdG9hMndwanpsNHE4dmtqIn0.mu2xyJZOi_oWbZarPZKpsQ',
     showMarkers: true,
     markerColor: '#3FB1CE',
@@ -10,9 +10,9 @@ var config = {
     theme: 'dark',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'The Title Text of this Story',
+    title: 'This is the story of Helmets Labeling Crops',
     subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By a Digital Storyteller',
+    byline: 'By Catherine Nakalembe',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
