@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/cnakalembe/clsksz43703tj01qq841m1keo',
-    accessToken: 'pk.eyJ1IjoiY25ha2FsZW1iZSIsImEiOiJja21nMTZoZGkwdG9hMndwanpsNHE4dmtqIn0.mu2xyJZOi_oWbZarPZKpsQ',
+    style: 'mapbox://styles/alanacg/clrjmsn2r000b01p58f1p9cne',
+    accessToken: 'pk.eyJ1IjoiYWxhbmFjZyIsImEiOiJjbHI2dTdmaTgyYmJkMmtteWg4aTFyYjd0In0.4egkQvHeJNw_VNBgcSEZmg',
     showMarkers: true,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
@@ -11,8 +11,8 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Helmets Labeling Crops',
-    subtitle: 'This is the story of Helmets Labeling Crops-Towards Scalable Crop-type mapping with EO and ML for Decision-making',
-    byline: 'By Catherine Nakalembe',
+    subtitle: 'This is the story of Helmets Labeling Crops- a project developed to create, expand and maintain equitably labeled datasets that support ML tools of high social value',
+    byline: 'By a Digital Storyteller',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
@@ -21,10 +21,10 @@ var config = {
             hidden: false,
             title: 'Display Title',
             image: 'images/source.png',
-            description: 'Create, expand, and maintain equitably labeled datasets that support ML tools of high social value in low and mid-income contexts 5 Focus countries: Kenya, Mali, Rwanda, Tanzania, Uganda, Nigeria, Paraguay, Zambia',
+            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
             //text for description is html- can rely on that for extra formatting
             location: {
-                center: [36.14102, -0.70968],
+                center: [-122.418398, 37.759483],
                 zoom: 8.5,
                 pitch: 60,
                 bearing: 0
@@ -47,11 +47,11 @@ var config = {
             ]
         },
         {
-            id: 'project-partners',
+            id: 'second-identifier',
             alignment: 'right',
             hidden: false,
-            title: 'Project Partners- University of Maryland',
-            image: 'images/helmets-cover.png',
+            title: 'Second Title',
+            image: 'images/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [-77.020636, 38.886900],
@@ -76,7 +76,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Third Title',
-            image: 'images/informal-seal.png',
+            image: 'images/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [6.15116, 46.20595],
