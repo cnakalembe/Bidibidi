@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/alanacg/clrjmsn2r000b01p58f1p9cne',
-    accessToken: 'pk.eyJ1IjoiYWxhbmFjZyIsImEiOiJjbHI2dTdmaTgyYmJkMmtteWg4aTFyYjd0In0.4egkQvHeJNw_VNBgcSEZmg',
+    style: 'mapbox://styles/cnakalembe/clsm2buv903v001qs2yms5elp',
+    accessToken: 'pk.eyJ1IjoiY25ha2FsZW1iZSIsImEiOiJjajN2enloODcwMDFjMzFsM2E1M3ZiOGN2In0.EggUNcpCmeGwwTMlZgj_hg',
     showMarkers: true,
     markerColor: '#3FB1CE',
     //projection: 'equirectangular',
@@ -10,23 +10,23 @@ var config = {
     theme: 'dark',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'Helmets Labeling Crops',
-    subtitle: 'This is the story of Helmets Labeling Crops- a project developed to create, expand and maintain equitably labeled datasets that support ML tools of high social value',
-    byline: 'By a Digital Storyteller',
+    title: 'Bididi Refugee Settlement Est. 2017',
+    subtitle: 'Bidibidi Refugee Settlement is located in Yumbe District in the North Western region of Uganda',
+    byline: 'Dr. Catherine Nakelembe',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: 'slug-style-id',
             alignment: 'left', //options are left, right, center, full
             hidden: false,
-            title: 'Display Title',
-            image: 'images/source.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            title: 'Water Point Zone 2',
+            image: 'images/IMG_6573.JPG',
+            description: 'Uganda is home to over 1.3 million refugees and asylum seekers due to conflicts in her neighbouring countries especially Southern Sudan and The Democratic Republic of Congo. The unrest in Southern Sudan since late 2013 has led to a large influx of refugees into Northern-western Uganda as a result forested land was cleared in Yumbe district in early 2016  to host the refugees and Bidibidi Refugee Settlement was established. Photo Credit: Catherine Nakalembe, 4th of November 2016 in Zone 2, Yumbe, Northern Region, Uganda',
             //text for description is html- can rely on that for extra formatting
             location: {
-                center: [-122.418398, 37.759483],
-                zoom: 8.5,
-                pitch: 60,
+                center: [31.3617056, 3.5257944],
+                zoom: 12.0,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
@@ -54,7 +54,7 @@ var config = {
             image: 'images/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
-                center: [-77.020636, 38.886900],
+                center: [31.33751, 3.53595],
                 zoom: 8.5,
                 pitch: 60,
                 bearing: -43.2,
@@ -98,7 +98,7 @@ var config = {
             image: 'images/source.png',
             description: 'Copy these sections to add to your story.',
             location: {
-                center: [-58.54195, -34.71600],
+                center: [31.34975, 3.37040],
                 zoom: 4,
                 pitch: 0,
                 bearing: 0
