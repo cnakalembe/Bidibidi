@@ -50,11 +50,11 @@ var config = {
             ]
         },
         {
-            id: 'second-identifier',
+            id: 'project-partners',
             alignment: 'right',
             hidden: false,
-            title: 'Second Title',
-            image: 'images/source.png',
+            title: 'Project Partners- University of Maryland',
+            image: 'https://umd-brand.transforms.svdcdn.com/production/uploads/images/logos-formal-seal.jpg?w=1801&h=1801&auto=compress%2Cformat&fit=crop&dm=1651267392&s=81a14f930f7888983f0f8bc10146c0b2',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [-77.020636, 38.886900],
