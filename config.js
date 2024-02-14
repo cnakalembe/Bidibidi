@@ -22,7 +22,9 @@ var config = {
             hidden: false,
             title: 'Display Title',
             image: 'images/source.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Create, expand, and maintain equitably labeled datasets that support ML tools of high social value in low and mid-income contexts 
+5 Focus countries: Kenya, Mali, Rwanda, Tanzania, Uganda, Nigeria, Paraguay, Zambia
+',
             //text for description is html- can rely on that for extra formatting
             location: {
                 center: [36.14102, -0.70968],
