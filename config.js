@@ -11,8 +11,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
     title: 'Helmets Labeling Crops',
-    subtitle: 'This is the story of Helmets Labeling Crops-Towards Scalable Crop-type mapping with EO and ML for Decision-making
-',
+    subtitle: 'This is the story of Helmets Labeling Crops-Towards Scalable Crop-type mapping with EO and ML for Decision-making',
     byline: 'By Catherine Nakalembe',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
