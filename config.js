@@ -22,9 +22,7 @@ var config = {
             hidden: false,
             title: 'Display Title',
             image: 'images/source.png',
-            description: 'Create, expand, and maintain equitably labeled datasets that support ML tools of high social value in low and mid-income contexts 
-5 Focus countries: Kenya, Mali, Rwanda, Tanzania, Uganda, Nigeria, Paraguay, Zambia
-',
+            description: 'Create, expand, and maintain equitably labeled datasets that support ML tools of high social value in low and mid-income contexts 5 Focus countries: Kenya, Mali, Rwanda, Tanzania, Uganda, Nigeria, Paraguay, Zambia',
             //text for description is html- can rely on that for extra formatting
             location: {
                 center: [36.14102, -0.70968],
