@@ -54,7 +54,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Project Partners- University of Maryland',
-            image: 'https://umd-brand.transforms.svdcdn.com/production/uploads/images/logos-formal-seal.jpg?w=1801&h=1801&auto=compress%2Cformat&fit=crop&dm=1651267392&s=81a14f930f7888983f0f8bc10146c0b2',
+            image: 'images/helmets-cover.png',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [-77.020636, 38.886900],
@@ -79,7 +79,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Third Title',
-            image: 'images/source.png',
+            image: 'images/informal-seal.png',
             description: 'Copy these sections to add to your story.',
             location: {
                 center: [6.15116, 46.20595],
